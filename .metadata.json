@@ -1,0 +1,10 @@
+[
+  {
+    "package": "prospectr",
+    "oncran": true
+  },
+  {
+    "package": "resemble",
+    "oncran": true
+  }
+]
