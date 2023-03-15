@@ -3,13 +3,13 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
-[submodule "resemble"]
-	path = resemble
-	url = https://github.com/l-ramirez-lopez/resemble
-	shallow = true
-	registered = true
 [submodule "prospectr"]
 	path = prospectr
 	url = https://github.com/l-ramirez-lopez/prospectr
+	shallow = true
+	registered = true
+[submodule "resemble"]
+	path = resemble
+	url = https://github.com/l-ramirez-lopez/resemble
 	shallow = true
 	registered = true
