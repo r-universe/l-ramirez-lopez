@@ -5,6 +5,9 @@
 [submodule "prospectr"]
 	path = prospectr
 	url = https://github.com/l-ramirez-lopez/prospectr
+[submodule "proximetricsR"]
+	path = proximetricsR
+	url = https://github.com/l-ramirez-lopez/proximetricsr
 [submodule "resemble"]
 	path = resemble
 	url = https://github.com/l-ramirez-lopez/resemble
